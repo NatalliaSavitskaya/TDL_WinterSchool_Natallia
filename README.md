@@ -1,7 +1,7 @@
 # WinterSchool Project 1
 
 ## Install
-To install dependancies run command:
+To install dependencies run command:
 ```
 npm install
 ```
